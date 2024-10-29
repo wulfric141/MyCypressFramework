@@ -1,0 +1,24 @@
+{
+  "name": "mycypressframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulfric141/MyCypressFramework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wulfric141/MyCypressFramework/issues"
+  },
+  "homepage": "https://github.com/wulfric141/MyCypressFramework#readme",
+  "dependencies": {
+    "cypress": "^13.15.1",
+    "prettier": "^3.3.3"
+  }
+}
